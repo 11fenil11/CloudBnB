@@ -1,6 +1,4 @@
-# csci5410_Group4
-
-Project Repository Group 4 | CSCI5410 Serverless Data Processing 
+# CloudBnB
 
 ## Getting started
 
